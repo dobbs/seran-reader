@@ -1,0 +1,35 @@
+{
+  "title": "Welcome Visitors",
+  "story": [
+    {
+      "id": "id-001",
+      "type": "paragraph",
+      "text": "Hello, World!"
+    },
+    {
+      "id": "id-002",
+      "type": "paragraph",
+      "text": "[[This Link]]"
+    }
+  ],
+  "journal": [
+    {
+      "action": "create",
+      "item":   {
+        "title": "Welcome Visitors",
+        "story": [
+          {
+            "id": "id-001",
+            "type": "paragraph",
+            "text": "Hello, World!"
+          },
+          {
+            "id": "id-002",
+            "type": "paragraph",
+            "text": "[[This Link]]"
+          }
+        ]
+      }
+    }
+  ]
+}
